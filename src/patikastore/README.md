@@ -1,0 +1,2 @@
+# patikastore
+Shopping application
